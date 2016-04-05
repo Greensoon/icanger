@@ -1,0 +1,19 @@
+{
+  "name": "icanger",
+  "version": "0.0.1",
+  "scripts" : {
+    "start"  : "webpack-dev-server --progress"
+  },
+  "dependencies" : {
+    "jquery" : "2.1.4"
+  }
+  ,
+  "devDependencies" : {
+    "babel"         : "*",
+    "babel-core"    : "*",
+    "babel-loader"  : "*",
+    "css-loader"    : "*",
+    "style-loader"  : "*",
+    "url-loader"    : "*"
+  }
+}
